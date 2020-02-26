@@ -3,6 +3,8 @@ Providing a game master agent(DQN) and environment combined with minesweeper and
 
 ## 1. Environment
 
+It is consist of 
+
 ## 2. Agent 
 
 #### 2-1. DQN Version
